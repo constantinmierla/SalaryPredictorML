@@ -1,4 +1,4 @@
-# Software Developer Salary Prediction - Streamlit App
+# Software Developer Salary Prediction
 
 This project is a web application built using **Streamlit** that allows users to predict the annual salary of a software developer based on factors such as location, education level, and years of professional experience. The app utilizes machine learning models (Decision Trees, Random Forest, and Linear Regression) to make predictions based on a dataset of salaries in the tech industry.
 
